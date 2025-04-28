@@ -194,7 +194,6 @@ Another good one to have.
 
 # Final Notes
 
-Everything here is intended as a practical, tested workflow for improving monitoring, remediation, and reporting — with a bias toward automation and self-healing where possible.  
-Test before deployment, and always adapt workflows to your environment's specific needs.
+All scripts not imported from the Template Library are provided as-is - please test before deployment, and always adapt workflows to your environment's specific needs.
 
 ---
