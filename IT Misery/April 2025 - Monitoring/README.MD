@@ -99,7 +99,7 @@ When detected, run the **Windows Update Diagnostic** tool as remediation — it 
 
 ## Detecting Devices on Guest/Incorrect WiFi
 
-*(Placeholder – not expanded in these notes, but the workflow is very similar to checking for unauthorized users.)*
+Scripts are located here: https://discord.com/channels/676451788395642880/1271526062605602857/1271526062605602857
 
 ---
 
